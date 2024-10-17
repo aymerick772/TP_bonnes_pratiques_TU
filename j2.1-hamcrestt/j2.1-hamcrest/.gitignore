@@ -1,0 +1,17 @@
+# Maven target directory
+/target/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+out/
+
+# NetBeans
+nbproject/private/
+build/
